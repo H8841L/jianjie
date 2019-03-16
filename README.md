@@ -4,10 +4,10 @@
   简易的vue运用
 
 运行
-  npm i
+  npm i;
   npm start
 
 技术包含
-  vue
-  webpack 
+  vue2.0;
+  webpack ;
   vue-awesome-swiper
